@@ -1,0 +1,4 @@
+baseURL = '/'
+languageCode = 'es-es'
+title = 'Web de prueba cinco Site'
+theme = "medilab"
